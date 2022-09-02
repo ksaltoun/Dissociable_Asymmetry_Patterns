@@ -1,0 +1,17 @@
+
+Component Asymmetry Pattern 71
+
+Now printing all phenotype hits grouped by category
+Output is in a tuple the following form: 
+(x val in graph, choice, column name, -log10(p), descriptive column name)
+Please see README for more information
+
+MAX: 4.881
+N ABOVE BON (4.29):  2
+N ABOVE FDR (3.99):  2
+Fine Grain info above  FDR
+Printing out 2 hits
+
+ COMP Asymmetry Pattern 71 BLOOD ASSAYS  (2 hit(s))
+(468, '', '30700-0.0', '4.37', 'Creatinine (0.0)')
+(477, '', '30880-0.0', '4.88', 'Urate (0.0)')

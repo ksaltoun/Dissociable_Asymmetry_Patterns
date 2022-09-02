@@ -1,0 +1,17 @@
+
+Component Asymmetry Pattern 61
+
+Now printing all phenotype hits grouped by category
+Output is in a tuple the following form: 
+(x val in graph, choice, column name, -log10(p), descriptive column name)
+Please see README for more information
+
+MAX: 5.302
+N ABOVE BON (4.29):  1
+N ABOVE FDR (3.99):  2
+Fine Grain info above  FDR
+Printing out 2 hits
+
+ COMP Asymmetry Pattern 61 LIFESTYLE AND ENVIRONMENT - GENERAL  (2 hit(s))
+(64, '1', '6142-0.0', '4.12', 'Current employment status (0.0)')
+(73, '2', '6142-0.0', '5.30', 'Current employment status (0.0)')

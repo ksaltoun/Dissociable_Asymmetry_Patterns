@@ -1,0 +1,24 @@
+
+Component Asymmetry Pattern 69
+
+Now printing all phenotype hits grouped by category
+Output is in a tuple the following form: 
+(x val in graph, choice, column name, -log10(p), descriptive column name)
+Please see README for more information
+
+MAX: 4.349
+N ABOVE BON (4.29):  1
+N ABOVE FDR (3.59):  5
+Fine Grain info above  FDR
+Printing out 5 hits
+
+ COMP Asymmetry Pattern 69 LIFESTYLE AND ENVIRONMENT - GENERAL  (1 hit(s))
+(101, '', '1845-0.0', '4.35', "Mother's age (0.0)")
+
+ COMP Asymmetry Pattern 69 PHYSICAL MEASURES - GENERAL  (3 hit(s))
+(390, '', '23108-0.0', '4.24', 'Impedance of leg (left) (0.0)')
+(391, '', '23107-0.0', '4.07', 'Impedance of leg (right) (0.0)')
+(392, '', '23106-0.0', '3.99', 'Impedance of whole body (0.0)')
+
+ COMP Asymmetry Pattern 69 PHYSICAL MEASURES - CARDIAC & BLOOD VESSELS  (1 hit(s))
+(450, '', '22681-2.0', '3.76', 'Maximum carotid IMT (intima-medial thickness) at 240 degrees  (2.0)')

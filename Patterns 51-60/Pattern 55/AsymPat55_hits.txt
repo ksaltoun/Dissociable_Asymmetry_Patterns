@@ -1,0 +1,23 @@
+
+Component Asymmetry Pattern 55
+
+Now printing all phenotype hits grouped by category
+Output is in a tuple the following form: 
+(x val in graph, choice, column name, -log10(p), descriptive column name)
+Please see README for more information
+
+MAX: 4.403
+N ABOVE BON (4.29):  1
+N ABOVE FDR (3.69):  4
+Fine Grain info above  FDR
+Printing out 4 hits
+
+ COMP Asymmetry Pattern 55 LIFESTYLE AND ENVIRONMENT - EXERCISE AND WORK  (1 hit(s))
+(220, '', '2624-0.0', '4.06', 'Frequency of heavy DIY in last 4 weeks (0.0)')
+
+ COMP Asymmetry Pattern 55 PHYSICAL MEASURES - GENERAL  (2 hit(s))
+(380, '', '50-0.0', '4.40', 'Standing height (0.0)')
+(403, '', '12144-2.0', '3.99', 'Height (2.0)')
+
+ COMP Asymmetry Pattern 55 COGNITIVE PHENOTYPES  (1 hit(s))
+(559, '', '20240-0.0', '3.84', 'Maximum digits remembered correctly (0.0)')

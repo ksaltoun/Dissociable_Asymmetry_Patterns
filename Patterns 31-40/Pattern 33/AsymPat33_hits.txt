@@ -1,0 +1,47 @@
+
+Component Asymmetry Pattern 33
+
+Now printing all phenotype hits grouped by category
+Output is in a tuple the following form: 
+(x val in graph, choice, column name, -log10(p), descriptive column name)
+Please see README for more information
+
+MAX: 5.946
+N ABOVE BON (4.29):  3
+N ABOVE FDR (3.04):  18
+Fine Grain info above  FDR
+Printing out 18 hits
+
+ COMP Asymmetry Pattern 33 LIFESTYLE AND ENVIRONMENT - GENERAL  (1 hit(s))
+(73, '2', '6142-0.0', '5.95', 'Current employment status (0.0)')
+
+ COMP Asymmetry Pattern 33 LIFESTYLE AND ENVIRONMENT - EXERCISE AND WORK  (1 hit(s))
+(226, '', '1120-0.0', '3.61', 'Weekly usage of mobile phone in last 3 months (0.0)')
+
+ COMP Asymmetry Pattern 33 LIFESTYLE AND ENVIRONMENT - ALCOHOL  (1 hit(s))
+(279, '', '4451-0.0', '3.04', 'Average monthly fortified wine intake (0.0)')
+
+ COMP Asymmetry Pattern 33 LIFESTYLE AND ENVIRONMENT - TOBACCO  (1 hit(s))
+(337, '', '20116_1.0', '3.44', 'Smoking status (0.0)')
+
+ COMP Asymmetry Pattern 33 PHYSICAL MEASURES - GENERAL  (10 hit(s))
+(365, '', '46-0.0', '5.19', 'Hand grip strength (left) (0.0)')
+(372, '', '23126-0.0', '3.25', 'Arm predicted mass (left) (0.0)')
+(373, '', '23125-0.0', '3.34', 'Arm fat-free mass (left) (0.0)')
+(374, '', '23123-0.0', '3.66', 'Arm fat percentage (left) (0.0)')
+(375, '', '47-0.0', '3.47', 'Hand grip strength (right) (0.0)')
+(380, '', '50-0.0', '3.37', 'Standing height (0.0)')
+(385, '', '23119-0.0', '3.88', 'Arm fat percentage (right) (0.0)')
+(387, '', '23111-0.0', '4.43', 'Leg fat percentage (right) (0.0)')
+(395, '', '23112-0.0', '3.95', 'Leg fat mass (right) (0.0)')
+(396, '', '23099-0.0', '3.61', 'Body fat percentage (0.0)')
+
+ COMP Asymmetry Pattern 33 BLOOD ASSAYS  (2 hit(s))
+(460, '', '30770-0.0', '3.19', 'IGF-1 (0.0)')
+(471, '', '30850-0.0', '4.27', 'Testosterone (0.0)')
+
+ COMP Asymmetry Pattern 33 COGNITIVE PHENOTYPES  (1 hit(s))
+(724, '', '6383-2.0', '4.23', 'Number of puzzles attempted (2.0)')
+
+ COMP Asymmetry Pattern 33 MENTAL HEALTH SELF-REPORT  (1 hit(s))
+(762, '', '20537-0.0', '3.74', 'Frequency of difficulty controlling worry during worst period of anxiety (0.0)')

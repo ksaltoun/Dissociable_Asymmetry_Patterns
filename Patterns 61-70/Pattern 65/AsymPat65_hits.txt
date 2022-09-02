@@ -1,0 +1,13 @@
+
+Component Asymmetry Pattern 65
+
+Now printing all phenotype hits grouped by category
+Output is in a tuple the following form: 
+(x val in graph, choice, column name, -log10(p), descriptive column name)
+Please see README for more information
+
+MAX: 3.900
+N ABOVE BON (4.29):  0
+N ABOVE FDR (4.29):  0
+Fine Grain info above  FDR
+Printing out 0 hits

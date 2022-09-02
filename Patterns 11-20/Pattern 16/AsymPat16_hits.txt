@@ -1,0 +1,54 @@
+
+Component Asymmetry Pattern 16
+
+Now printing all phenotype hits grouped by category
+Output is in a tuple the following form: 
+(x val in graph, choice, column name, -log10(p), descriptive column name)
+Please see README for more information
+
+MAX: 11.158
+N ABOVE BON (4.29):  10
+N ABOVE FDR (2.86):  27
+Fine Grain info above  FDR
+Printing out 27 hits
+
+ COMP Asymmetry Pattern 16 LIFESTYLE AND ENVIRONMENT - GENERAL  (11 hit(s))
+(64, '1', '6142-0.0', '8.90', 'Current employment status (0.0)')
+(72, '', '1797-0.0', '5.19', 'Father still alive (0.0)')
+(73, '2', '6142-0.0', '10.01', 'Current employment status (0.0)')
+(92, '2', '6141-0.0', '4.55', 'How are people in household related to participant (0.0)')
+(104, '', '699-0.0', '4.30', 'Length of time at current address (0.0)')
+(109, '', '3-0.0', '2.88', 'Verbal interview duration (0.0)')
+(120, '', '2139-0.0', '3.04', 'Age first had sexual intercourse (0.0)')
+(150, '', '709-0.0', '3.12', 'Number in household (0.0)')
+(191, '', '2149-0.0', '3.16', 'Lifetime number of sexual partners (0.0)')
+(210, '', '680_2.0', '3.84', 'Own or rent accommodation lived in (0.0)')
+(211, '', '680_1.0', '3.77', 'Own or rent accommodation lived in (0.0)')
+
+ COMP Asymmetry Pattern 16 LIFESTYLE AND ENVIRONMENT - EXERCISE AND WORK  (1 hit(s))
+(226, '', '1120-0.0', '5.62', 'Weekly usage of mobile phone in last 3 months (0.0)')
+
+ COMP Asymmetry Pattern 16 LIFESTYLE AND ENVIRONMENT - ALCOHOL  (1 hit(s))
+(281, '', '1628-0.0', '2.93', 'Alcohol intake versus 10 years previously (0.0)')
+
+ COMP Asymmetry Pattern 16 LIFESTYLE AND ENVIRONMENT - TOBACCO  (1 hit(s))
+(337, '', '20116_1.0', '3.43', 'Smoking status (0.0)')
+
+ COMP Asymmetry Pattern 16 PHYSICAL MEASURES - CARDIAC & BLOOD VESSELS  (4 hit(s))
+(416, '', '22671-2.0', '3.84', 'Mean carotid IMT (intima-medial thickness) at 120 degrees  (2.0)')
+(420, '', '22670-2.0', '4.31', 'Minimum carotid IMT (intima-medial thickness) at 120 degrees  (2.0)')
+(421, '', '22672-2.0', '3.53', 'Maximum carotid IMT (intima-medial thickness) at 120 degrees  (2.0)')
+(450, '', '22681-2.0', '2.97', 'Maximum carotid IMT (intima-medial thickness) at 240 degrees  (2.0)')
+
+ COMP Asymmetry Pattern 16 BLOOD ASSAYS  (2 hit(s))
+(462, '', '30750-0.0', '4.18', 'Glycated haemoglobin (HbA1c) (0.0)')
+(505, '', '30650-0.0', '3.51', 'Aspartate aminotransferase (0.0)')
+
+ COMP Asymmetry Pattern 16 COGNITIVE PHENOTYPES  (7 hit(s))
+(602, '', '23323-2.0', '5.03', 'Number of symbol digit matches attempted (2.0)')
+(603, '', '23324-2.0', '2.94', 'Number of symbol digit matches made correctly (2.0)')
+(637, '', '6348-2.0', '3.15', 'Duration to complete numeric path (trail #1) (2.0)')
+(638, '', '6350-2.0', '11.16', 'Duration to complete alphanumeric path (trail #2) (2.0)')
+(639, '', '6772-2.0', '3.74', 'Interval between previous point and current one in numeric path (trail #1) (2.0)')
+(640, '', '6773-2.0', '7.32', 'Interval between previous point and current one in alphanumeric path (trail #2) (2.0)')
+(721, '', '6373-2.0', '3.24', 'Number of puzzles correctly solved (2.0)')

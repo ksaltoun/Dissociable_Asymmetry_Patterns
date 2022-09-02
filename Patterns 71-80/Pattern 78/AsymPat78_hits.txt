@@ -1,0 +1,75 @@
+
+Component Asymmetry Pattern 78
+
+Now printing all phenotype hits grouped by category
+Output is in a tuple the following form: 
+(x val in graph, choice, column name, -log10(p), descriptive column name)
+Please see README for more information
+
+MAX: 8.074
+N ABOVE BON (4.29):  26
+N ABOVE FDR (2.61):  48
+Fine Grain info above  FDR
+Printing out 48 hits
+
+ COMP Asymmetry Pattern 78 LIFESTYLE AND ENVIRONMENT - GENERAL  (5 hit(s))
+(33, '1', '20110-0.0', '3.23', 'Illnesses of mother (0.0)')
+(73, '2', '6142-0.0', '2.92', 'Current employment status (0.0)')
+(156, '10', '20111-0.0', '2.79', 'Illnesses of siblings (0.0)')
+(202, '', '2395_4.0', '4.50', 'Hair/balding pattern (0.0)')
+(203, '', '2395_3.0', '3.24', 'Hair/balding pattern (0.0)')
+
+ COMP Asymmetry Pattern 78 LIFESTYLE AND ENVIRONMENT - ALCOHOL  (1 hit(s))
+(288, '', '1588-0.0', '3.40', 'Average weekly beer plus cider intake (0.0)')
+
+ COMP Asymmetry Pattern 78 LIFESTYLE AND ENVIRONMENT - TOBACCO  (1 hit(s))
+(350, '', '2877_2.0', '2.68', 'Type of tobacco previously smoked (0.0)')
+
+ COMP Asymmetry Pattern 78 PHYSICAL MEASURES - GENERAL  (24 hit(s))
+(365, '', '46-0.0', '4.50', 'Hand grip strength (left) (0.0)')
+(371, '', '23127-0.0', '4.20', 'Trunk fat percentage (0.0)')
+(372, '', '23126-0.0', '6.35', 'Arm predicted mass (left) (0.0)')
+(373, '', '23125-0.0', '6.12', 'Arm fat-free mass (left) (0.0)')
+(374, '', '23123-0.0', '7.46', 'Arm fat percentage (left) (0.0)')
+(375, '', '47-0.0', '5.00', 'Hand grip strength (right) (0.0)')
+(378, '', '48-0.0', '4.34', 'Waist circumference (0.0)')
+(380, '', '50-0.0', '6.37', 'Standing height (0.0)')
+(383, '', '23121-0.0', '6.41', 'Arm fat-free mass (right) (0.0)')
+(385, '', '23119-0.0', '6.99', 'Arm fat percentage (right) (0.0)')
+(386, '', '23113-0.0', '5.20', 'Leg fat-free mass (right) (0.0)')
+(387, '', '23111-0.0', '8.07', 'Leg fat percentage (right) (0.0)')
+(388, '', '23110-0.0', '6.85', 'Impedance of arm (left) (0.0)')
+(389, '', '23109-0.0', '6.72', 'Impedance of arm (right) (0.0)')
+(390, '', '23108-0.0', '2.77', 'Impedance of leg (left) (0.0)')
+(391, '', '23107-0.0', '2.67', 'Impedance of leg (right) (0.0)')
+(392, '', '23106-0.0', '6.54', 'Impedance of whole body (0.0)')
+(393, '', '23102-2.0', '6.82', 'Whole body water mass (2.0)')
+(394, '', '23101-0.0', '6.01', 'Whole body fat-free mass (0.0)')
+(395, '', '23112-0.0', '7.06', 'Leg fat mass (right) (0.0)')
+(396, '', '23099-0.0', '7.28', 'Body fat percentage (0.0)')
+(400, '', '3062-0.0', '4.18', 'Forced vital capacity (FVC) (0.0)')
+(403, '', '12144-2.0', '6.59', 'Height (2.0)')
+(404, '', '20015-0.0', '4.85', 'Sitting height (0.0)')
+
+ COMP Asymmetry Pattern 78 PHYSICAL MEASURES - CARDIAC & BLOOD VESSELS  (1 hit(s))
+(415, '', '12340-2.0', '2.92', 'QRS duration (2.0)')
+
+ COMP Asymmetry Pattern 78 BLOOD ASSAYS  (9 hit(s))
+(462, '', '30750-0.0', '3.50', 'Glycated haemoglobin (HbA1c) (0.0)')
+(466, '', '30720-0.0', '3.62', 'Cystatin C (0.0)')
+(468, '', '30700-0.0', '4.36', 'Creatinine (0.0)')
+(471, '', '30850-0.0', '3.58', 'Testosterone (0.0)')
+(477, '', '30880-0.0', '4.59', 'Urate (0.0)')
+(503, '', '30090-0.0', '3.20', 'Platelet crit (0.0)')
+(513, '', '30020-0.0', '6.50', 'Haemoglobin concentration (0.0)')
+(514, '', '30030-0.0', '5.80', 'Haematocrit percentage (0.0)')
+(518, '', '30010-0.0', '3.58', 'Red blood cell (erythrocyte) count (0.0)')
+
+ COMP Asymmetry Pattern 78 COGNITIVE PHENOTYPES  (7 hit(s))
+(541, '', '20147-0.1', '3.00', 'Errors before selecting correct item in numeric path (trail #1) (0.1)')
+(595, '', '20156-0.0', '4.19', 'Duration to complete numeric path (trail #1) (0.0)')
+(597, '', '20159-0.0', '2.89', 'Number of symbol digit matches made correctly (0.0)')
+(598, '', '20195-0.0', '4.94', 'Number of symbol digit matches attempted (0.0)')
+(603, '', '23324-2.0', '2.78', 'Number of symbol digit matches made correctly (2.0)')
+(637, '', '6348-2.0', '3.73', 'Duration to complete numeric path (trail #1) (2.0)')
+(639, '', '6772-2.0', '3.25', 'Interval between previous point and current one in numeric path (trail #1) (2.0)')

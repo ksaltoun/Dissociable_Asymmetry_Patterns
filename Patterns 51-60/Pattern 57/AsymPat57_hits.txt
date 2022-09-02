@@ -1,0 +1,79 @@
+
+Component Asymmetry Pattern 57
+
+Now printing all phenotype hits grouped by category
+Output is in a tuple the following form: 
+(x val in graph, choice, column name, -log10(p), descriptive column name)
+Please see README for more information
+
+MAX: 9.998
+N ABOVE BON (4.29):  27
+N ABOVE FDR (2.60):  49
+Fine Grain info above  FDR
+Printing out 49 hits
+
+ COMP Asymmetry Pattern 57 LIFESTYLE AND ENVIRONMENT - GENERAL  (4 hit(s))
+(64, '1', '6142-0.0', '4.94', 'Current employment status (0.0)')
+(73, '2', '6142-0.0', '3.07', 'Current employment status (0.0)')
+(204, '', '2395_2.0', '3.03', 'Hair/balding pattern (0.0)')
+(213, '', '2395_1.0', '4.46', 'Hair/balding pattern (0.0)')
+
+ COMP Asymmetry Pattern 57 LIFESTYLE AND ENVIRONMENT - EXERCISE AND WORK  (3 hit(s))
+(234, '3', '6164-0.0', '3.00', 'Types of physical activity in last 4 weeks (0.0)')
+(252, '', '1100-0.0', '4.34', 'Drive faster than motorway speed limit (0.0)')
+(263, '', '826-0.0', '3.11', 'Job involves shift work (0.0)')
+
+ COMP Asymmetry Pattern 57 LIFESTYLE AND ENVIRONMENT - ALCOHOL  (1 hit(s))
+(295, '', '20405_1.0', '4.09', 'Ever had known person concerned about, or recommend reduction of, alcohol consumption (0.0)')
+
+ COMP Asymmetry Pattern 57 LIFESTYLE AND ENVIRONMENT - TOBACCO  (1 hit(s))
+(357, '', '1279-0.0', '3.17', 'Exposure to tobacco smoke outside home (0.0)')
+
+ COMP Asymmetry Pattern 57 PHYSICAL MEASURES - GENERAL  (27 hit(s))
+(365, '', '46-0.0', '6.57', 'Hand grip strength (left) (0.0)')
+(371, '', '23127-0.0', '5.87', 'Trunk fat percentage (0.0)')
+(372, '', '23126-0.0', '7.18', 'Arm predicted mass (left) (0.0)')
+(373, '', '23125-0.0', '7.14', 'Arm fat-free mass (left) (0.0)')
+(374, '', '23123-0.0', '8.79', 'Arm fat percentage (left) (0.0)')
+(375, '', '47-0.0', '5.66', 'Hand grip strength (right) (0.0)')
+(380, '', '50-0.0', '4.13', 'Standing height (0.0)')
+(383, '', '23121-0.0', '7.08', 'Arm fat-free mass (right) (0.0)')
+(385, '', '23119-0.0', '7.96', 'Arm fat percentage (right) (0.0)')
+(386, '', '23113-0.0', '6.61', 'Leg fat-free mass (right) (0.0)')
+(387, '', '23111-0.0', '8.37', 'Leg fat percentage (right) (0.0)')
+(388, '', '23110-0.0', '8.94', 'Impedance of arm (left) (0.0)')
+(389, '', '23109-0.0', '8.28', 'Impedance of arm (right) (0.0)')
+(390, '', '23108-0.0', '3.14', 'Impedance of leg (left) (0.0)')
+(391, '', '23107-0.0', '2.75', 'Impedance of leg (right) (0.0)')
+(392, '', '23106-0.0', '7.27', 'Impedance of whole body (0.0)')
+(393, '', '23102-2.0', '7.18', 'Whole body water mass (2.0)')
+(394, '', '23101-0.0', '6.67', 'Whole body fat-free mass (0.0)')
+(395, '', '23112-0.0', '6.65', 'Leg fat mass (right) (0.0)')
+(396, '', '23099-0.0', '10.00', 'Body fat percentage (0.0)')
+(397, '', '23100-0.0', '3.56', 'Whole body fat mass (0.0)')
+(398, '', '3064-0.0', '3.59', 'Peak expiratory flow (PEF) (0.0)')
+(400, '', '3062-0.0', '5.53', 'Forced vital capacity (FVC) (0.0)')
+(403, '', '12144-2.0', '4.32', 'Height (2.0)')
+(404, '', '20015-0.0', '3.13', 'Sitting height (0.0)')
+(407, '', '12143-2.0', '2.88', 'Weight (pre-imaging) (2.0)')
+(408, '', '3063-0.0', '6.28', 'Forced expiratory volume in 1-second (FEV1) (0.0)')
+
+ COMP Asymmetry Pattern 57 PHYSICAL MEASURES - CARDIAC & BLOOD VESSELS  (1 hit(s))
+(436, '', '6020_31.0', '2.91', 'Completion status of test (0.0)')
+
+ COMP Asymmetry Pattern 57 BLOOD ASSAYS  (9 hit(s))
+(468, '', '30700-0.0', '6.27', 'Creatinine (0.0)')
+(471, '', '30850-0.0', '6.57', 'Testosterone (0.0)')
+(472, '', '30830-0.0', '3.70', 'SHBG (0.0)')
+(477, '', '30880-0.0', '2.79', 'Urate (0.0)')
+(503, '', '30090-0.0', '3.18', 'Platelet crit (0.0)')
+(509, '', '30610-0.0', '3.17', 'Alkaline phosphatase (0.0)')
+(513, '', '30020-0.0', '4.68', 'Haemoglobin concentration (0.0)')
+(514, '', '30030-0.0', '3.64', 'Haematocrit percentage (0.0)')
+(518, '', '30010-0.0', '4.43', 'Red blood cell (erythrocyte) count (0.0)')
+
+ COMP Asymmetry Pattern 57 COGNITIVE PHENOTYPES  (1 hit(s))
+(603, '', '23324-2.0', '3.29', 'Number of symbol digit matches made correctly (2.0)')
+
+ COMP Asymmetry Pattern 57 MENTAL HEALTH SELF-REPORT  (1 hit(s))
+(851, '', '2030-0.0', '3.16', 'Guilty feelings (0.0)')

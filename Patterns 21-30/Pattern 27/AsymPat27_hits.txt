@@ -1,0 +1,32 @@
+
+Component Asymmetry Pattern 27
+
+Now printing all phenotype hits grouped by category
+Output is in a tuple the following form: 
+(x val in graph, choice, column name, -log10(p), descriptive column name)
+Please see README for more information
+
+MAX: 5.542
+N ABOVE BON (4.29):  3
+N ABOVE FDR (3.18):  13
+Fine Grain info above  FDR
+Printing out 13 hits
+
+ COMP Asymmetry Pattern 27 LIFESTYLE AND ENVIRONMENT - GENERAL  (4 hit(s))
+(73, '2', '6142-0.0', '5.35', 'Current employment status (0.0)')
+(104, '', '699-0.0', '5.54', 'Length of time at current address (0.0)')
+(122, '', '3526-0.0', '3.39', "Mother's age at death (0.0)")
+(211, '', '680_1.0', '3.47', 'Own or rent accommodation lived in (0.0)')
+
+ COMP Asymmetry Pattern 27 PHYSICAL MEASURES - CARDIAC & BLOOD VESSELS  (7 hit(s))
+(416, '', '22671-2.0', '4.12', 'Mean carotid IMT (intima-medial thickness) at 120 degrees  (2.0)')
+(421, '', '22672-2.0', '4.03', 'Maximum carotid IMT (intima-medial thickness) at 120 degrees  (2.0)')
+(422, '', '22675-2.0', '3.44', 'Maximum carotid IMT (intima-medial thickness) at 150 degrees  (2.0)')
+(423, '', '22674-2.0', '4.35', 'Mean carotid IMT (intima-medial thickness) at 150 degrees  (2.0)')
+(425, '', '22673-2.0', '3.73', 'Minimum carotid IMT (intima-medial thickness) at 150 degrees  (2.0)')
+(435, '', '22679-2.0', '3.59', 'Minimum carotid IMT (intima-medial thickness) at 240 degrees  (2.0)')
+(449, '', '22680-2.0', '3.40', 'Mean carotid IMT (intima-medial thickness) at 240 degrees  (2.0)')
+
+ COMP Asymmetry Pattern 27 COGNITIVE PHENOTYPES  (2 hit(s))
+(624, '', '20179_4.0', '4.11', 'FI8 : chained arithmetic (0.0)')
+(677, '', '400-0.1', '3.43', 'Time to complete round (0.1)')

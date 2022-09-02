@@ -1,0 +1,104 @@
+
+Component Asymmetry Pattern 75
+
+Now printing all phenotype hits grouped by category
+Output is in a tuple the following form: 
+(x val in graph, choice, column name, -log10(p), descriptive column name)
+Please see README for more information
+
+MAX: 17.256
+N ABOVE BON (4.29):  45
+N ABOVE FDR (2.41):  76
+Fine Grain info above  FDR
+Printing out 76 hits
+
+ COMP Asymmetry Pattern 75 LIFESTYLE AND ENVIRONMENT - GENERAL  (7 hit(s))
+(23, '3', '6160-0.0', '2.99', 'Leisure/social activities (0.0)')
+(48, '2', '6160-0.0', '3.93', 'Leisure/social activities (0.0)')
+(103, '', '767-0.0', '3.05', 'Length of working week for main job (0.0)')
+(172, '', '26428-0.0', '2.78', 'Income score (Scotland) (0.0)')
+(202, '', '2395_4.0', '4.39', 'Hair/balding pattern (0.0)')
+(204, '', '2395_2.0', '6.07', 'Hair/balding pattern (0.0)')
+(213, '', '2395_1.0', '8.43', 'Hair/balding pattern (0.0)')
+
+ COMP Asymmetry Pattern 75 LIFESTYLE AND ENVIRONMENT - EXERCISE AND WORK  (6 hit(s))
+(229, '', '894-0.0', '2.49', 'Duration of moderate activity (0.0)')
+(250, '', '1210-0.0', '5.43', 'Snoring (0.0)')
+(252, '', '1100-0.0', '2.48', 'Drive faster than motorway speed limit (0.0)')
+(254, '', '1080-0.0', '2.47', 'Time spent using computer (0.0)')
+(256, '', '1150_2.0', '2.87', 'Usual side of head for mobile phone use (0.0)')
+(270, '', '1070-0.0', '2.58', 'Time spent watching television (TV) (0.0)')
+
+ COMP Asymmetry Pattern 75 LIFESTYLE AND ENVIRONMENT - ALCOHOL  (2 hit(s))
+(288, '', '1588-0.0', '11.89', 'Average weekly beer plus cider intake (0.0)')
+(289, '', '1578-0.0', '2.94', 'Average weekly champagne plus white wine intake (0.0)')
+
+ COMP Asymmetry Pattern 75 LIFESTYLE AND ENVIRONMENT - TOBACCO  (3 hit(s))
+(336, '', '20116_0.0', '3.35', 'Smoking status (0.0)')
+(339, '', '22506_0.0', '3.91', 'Tobacco smoking (0.0)')
+(354, '', '1249-0.0', '2.44', 'Past tobacco smoking (0.0)')
+
+ COMP Asymmetry Pattern 75 PHYSICAL MEASURES - GENERAL  (30 hit(s))
+(365, '', '46-0.0', '8.55', 'Hand grip strength (left) (0.0)')
+(371, '', '23127-0.0', '6.82', 'Trunk fat percentage (0.0)')
+(372, '', '23126-0.0', '17.26', 'Arm predicted mass (left) (0.0)')
+(373, '', '23125-0.0', '15.91', 'Arm fat-free mass (left) (0.0)')
+(374, '', '23123-0.0', '15.60', 'Arm fat percentage (left) (0.0)')
+(375, '', '47-0.0', '9.11', 'Hand grip strength (right) (0.0)')
+(378, '', '48-0.0', '7.96', 'Waist circumference (0.0)')
+(380, '', '50-0.0', '11.61', 'Standing height (0.0)')
+(383, '', '23121-0.0', '15.43', 'Arm fat-free mass (right) (0.0)')
+(384, '', '23120-0.0', '2.90', 'Arm fat mass (right) (0.0)')
+(385, '', '23119-0.0', '15.96', 'Arm fat percentage (right) (0.0)')
+(386, '', '23113-0.0', '12.79', 'Leg fat-free mass (right) (0.0)')
+(387, '', '23111-0.0', '16.11', 'Leg fat percentage (right) (0.0)')
+(388, '', '23110-0.0', '16.00', 'Impedance of arm (left) (0.0)')
+(389, '', '23109-0.0', '16.85', 'Impedance of arm (right) (0.0)')
+(390, '', '23108-0.0', '3.68', 'Impedance of leg (left) (0.0)')
+(391, '', '23107-0.0', '3.95', 'Impedance of leg (right) (0.0)')
+(392, '', '23106-0.0', '11.97', 'Impedance of whole body (0.0)')
+(393, '', '23102-2.0', '12.53', 'Whole body water mass (2.0)')
+(394, '', '23101-0.0', '15.05', 'Whole body fat-free mass (0.0)')
+(395, '', '23112-0.0', '12.92', 'Leg fat mass (right) (0.0)')
+(396, '', '23099-0.0', '13.72', 'Body fat percentage (0.0)')
+(397, '', '23100-0.0', '2.78', 'Whole body fat mass (0.0)')
+(398, '', '3064-0.0', '8.85', 'Peak expiratory flow (PEF) (0.0)')
+(400, '', '3062-0.0', '9.08', 'Forced vital capacity (FVC) (0.0)')
+(403, '', '12144-2.0', '10.45', 'Height (2.0)')
+(404, '', '20015-0.0', '11.57', 'Sitting height (0.0)')
+(406, '', '21002-0.0', '5.77', 'Weight (0.0)')
+(407, '', '12143-2.0', '5.83', 'Weight (pre-imaging) (2.0)')
+(408, '', '3063-0.0', '5.81', 'Forced expiratory volume in 1-second (FEV1) (0.0)')
+
+ COMP Asymmetry Pattern 75 PHYSICAL MEASURES - CARDIAC & BLOOD VESSELS  (2 hit(s))
+(415, '', '12340-2.0', '2.81', 'QRS duration (2.0)')
+(444, '', '4079-0.0', '2.95', 'Diastolic blood pressure, automated reading (0.0)')
+
+ COMP Asymmetry Pattern 75 BLOOD ASSAYS  (21 hit(s))
+(461, '', '30760-0.0', '4.87', 'HDL cholesterol (0.0)')
+(465, '', '30730-0.0', '8.39', 'Gamma glutamyltransferase (0.0)')
+(466, '', '30720-0.0', '2.81', 'Cystatin C (0.0)')
+(468, '', '30700-0.0', '12.56', 'Creatinine (0.0)')
+(471, '', '30850-0.0', '16.10', 'Testosterone (0.0)')
+(472, '', '30830-0.0', '10.14', 'SHBG (0.0)')
+(476, '', '30870-0.0', '4.88', 'Triglycerides (0.0)')
+(477, '', '30880-0.0', '7.44', 'Urate (0.0)')
+(481, '', '30150-0.0', '4.12', 'Eosinophill count (0.0)')
+(489, '', '30130-0.0', '4.48', 'Monocyte count (0.0)')
+(492, '', '30190-0.0', '4.55', 'Monocyte percentage (0.0)')
+(501, '', '30210-0.0', '3.74', 'Eosinophill percentage (0.0)')
+(502, '', '30670-0.0', '5.03', 'Urea (0.0)')
+(503, '', '30090-0.0', '3.13', 'Platelet crit (0.0)')
+(505, '', '30650-0.0', '3.29', 'Aspartate aminotransferase (0.0)')
+(507, '', '30630-0.0', '3.21', 'Apolipoprotein A (0.0)')
+(508, '', '30620-0.0', '5.51', 'Alanine aminotransferase (0.0)')
+(510, '', '30600-0.0', '2.45', 'Albumin (0.0)')
+(513, '', '30020-0.0', '12.33', 'Haemoglobin concentration (0.0)')
+(514, '', '30030-0.0', '14.44', 'Haematocrit percentage (0.0)')
+(518, '', '30010-0.0', '10.63', 'Red blood cell (erythrocyte) count (0.0)')
+
+ COMP Asymmetry Pattern 75 MENTAL HEALTH SELF-REPORT  (4 hit(s))
+(818, '', '20530_0.0', '3.05', 'Witnessed sudden violent death (0.0)')
+(824, '', '20528_0.0', '2.63', 'Diagnosed with life-threatening illness (0.0)')
+(850, '', '2040-0.0', '2.66', 'Risk taking (0.0)')
+(855, '', '1990-0.0', '3.60', "Tense / 'highly strung' (0.0)")

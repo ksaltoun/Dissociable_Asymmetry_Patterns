@@ -1,0 +1,23 @@
+
+Component Asymmetry Pattern 46
+
+Now printing all phenotype hits grouped by category
+Output is in a tuple the following form: 
+(x val in graph, choice, column name, -log10(p), descriptive column name)
+Please see README for more information
+
+MAX: 5.886
+N ABOVE BON (4.29):  4
+N ABOVE FDR (3.51):  6
+Fine Grain info above  FDR
+Printing out 6 hits
+
+ COMP Asymmetry Pattern 46 PHYSICAL MEASURES - GENERAL  (2 hit(s))
+(385, '', '23119-0.0', '3.58', 'Arm fat percentage (right) (0.0)')
+(389, '', '23109-0.0', '3.61', 'Impedance of arm (right) (0.0)')
+
+ COMP Asymmetry Pattern 46 BLOOD ASSAYS  (4 hit(s))
+(468, '', '30700-0.0', '4.45', 'Creatinine (0.0)')
+(490, '', '30140-0.0', '5.88', 'Neutrophill count (0.0)')
+(512, '', '30000-0.0', '5.89', 'White blood cell (leukocyte) count (0.0)')
+(513, '', '30020-0.0', '4.47', 'Haemoglobin concentration (0.0)')

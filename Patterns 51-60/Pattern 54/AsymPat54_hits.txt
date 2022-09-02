@@ -1,0 +1,58 @@
+
+Component Asymmetry Pattern 54
+
+Now printing all phenotype hits grouped by category
+Output is in a tuple the following form: 
+(x val in graph, choice, column name, -log10(p), descriptive column name)
+Please see README for more information
+
+MAX: 8.974
+N ABOVE BON (4.29):  21
+N ABOVE FDR (2.75):  35
+Fine Grain info above  FDR
+Printing out 35 hits
+
+ COMP Asymmetry Pattern 54 EARLY LIFE FACTORS  (1 hit(s))
+(4, '', '1697-0.0', '3.85', 'Comparative height size at age 10 (0.0)')
+
+ COMP Asymmetry Pattern 54 LIFESTYLE AND ENVIRONMENT - GENERAL  (2 hit(s))
+(204, '', '2395_2.0', '2.82', 'Hair/balding pattern (0.0)')
+(213, '', '2395_1.0', '2.82', 'Hair/balding pattern (0.0)')
+
+ COMP Asymmetry Pattern 54 PHYSICAL MEASURES - GENERAL  (21 hit(s))
+(365, '', '46-0.0', '6.08', 'Hand grip strength (left) (0.0)')
+(371, '', '23127-0.0', '6.13', 'Trunk fat percentage (0.0)')
+(372, '', '23126-0.0', '5.29', 'Arm predicted mass (left) (0.0)')
+(373, '', '23125-0.0', '5.15', 'Arm fat-free mass (left) (0.0)')
+(374, '', '23123-0.0', '8.27', 'Arm fat percentage (left) (0.0)')
+(375, '', '47-0.0', '5.15', 'Hand grip strength (right) (0.0)')
+(378, '', '48-0.0', '2.98', 'Waist circumference (0.0)')
+(383, '', '23121-0.0', '5.13', 'Arm fat-free mass (right) (0.0)')
+(385, '', '23119-0.0', '7.46', 'Arm fat percentage (right) (0.0)')
+(386, '', '23113-0.0', '3.05', 'Leg fat-free mass (right) (0.0)')
+(387, '', '23111-0.0', '8.13', 'Leg fat percentage (right) (0.0)')
+(388, '', '23110-0.0', '8.97', 'Impedance of arm (left) (0.0)')
+(389, '', '23109-0.0', '8.36', 'Impedance of arm (right) (0.0)')
+(392, '', '23106-0.0', '6.05', 'Impedance of whole body (0.0)')
+(393, '', '23102-2.0', '5.78', 'Whole body water mass (2.0)')
+(394, '', '23101-0.0', '4.37', 'Whole body fat-free mass (0.0)')
+(395, '', '23112-0.0', '7.68', 'Leg fat mass (right) (0.0)')
+(396, '', '23099-0.0', '8.18', 'Body fat percentage (0.0)')
+(397, '', '23100-0.0', '3.65', 'Whole body fat mass (0.0)')
+(398, '', '3064-0.0', '4.10', 'Peak expiratory flow (PEF) (0.0)')
+(404, '', '20015-0.0', '2.85', 'Sitting height (0.0)')
+
+ COMP Asymmetry Pattern 54 BLOOD ASSAYS  (10 hit(s))
+(461, '', '30760-0.0', '3.62', 'HDL cholesterol (0.0)')
+(465, '', '30730-0.0', '3.55', 'Gamma glutamyltransferase (0.0)')
+(468, '', '30700-0.0', '5.82', 'Creatinine (0.0)')
+(471, '', '30850-0.0', '6.63', 'Testosterone (0.0)')
+(472, '', '30830-0.0', '4.74', 'SHBG (0.0)')
+(477, '', '30880-0.0', '4.80', 'Urate (0.0)')
+(513, '', '30020-0.0', '3.69', 'Haemoglobin concentration (0.0)')
+(514, '', '30030-0.0', '3.15', 'Haematocrit percentage (0.0)')
+(515, '', '30040-0.0', '2.86', 'Mean corpuscular volume (0.0)')
+(518, '', '30010-0.0', '5.07', 'Red blood cell (erythrocyte) count (0.0)')
+
+ COMP Asymmetry Pattern 54 MENTAL HEALTH SELF-REPORT  (1 hit(s))
+(919, '', '20498-0.0', '3.14', 'Felt very upset when reminded of stressful experience in past month (0.0)')

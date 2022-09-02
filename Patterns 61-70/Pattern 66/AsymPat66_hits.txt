@@ -1,0 +1,66 @@
+
+Component Asymmetry Pattern 66
+
+Now printing all phenotype hits grouped by category
+Output is in a tuple the following form: 
+(x val in graph, choice, column name, -log10(p), descriptive column name)
+Please see README for more information
+
+MAX: 7.043
+N ABOVE BON (4.29):  10
+N ABOVE FDR (2.72):  37
+Fine Grain info above  FDR
+Printing out 37 hits
+
+ COMP Asymmetry Pattern 66 LIFESTYLE AND ENVIRONMENT - GENERAL  (9 hit(s))
+(64, '1', '6142-0.0', '7.04', 'Current employment status (0.0)')
+(71, '', '1835-0.0', '5.60', 'Mother still alive (0.0)')
+(72, '', '1797-0.0', '3.60', 'Father still alive (0.0)')
+(73, '2', '6142-0.0', '6.73', 'Current employment status (0.0)')
+(92, '2', '6141-0.0', '2.83', 'How are people in household related to participant (0.0)')
+(104, '', '699-0.0', '6.33', 'Length of time at current address (0.0)')
+(107, '', '5-0.0', '2.75', 'Sample collection duration (0.0)')
+(210, '', '680_2.0', '4.11', 'Own or rent accommodation lived in (0.0)')
+(211, '', '680_1.0', '3.64', 'Own or rent accommodation lived in (0.0)')
+
+ COMP Asymmetry Pattern 66 LIFESTYLE AND ENVIRONMENT - EXERCISE AND WORK  (3 hit(s))
+(227, '', '1110-0.0', '4.22', 'Length of mobile phone use (0.0)')
+(235, '', '1170-0.0', '2.87', 'Getting up in morning (0.0)')
+(247, '4', '6143-0.0', '5.03', 'Transport type for commuting to job workplace (0.0)')
+
+ COMP Asymmetry Pattern 66 LIFESTYLE AND ENVIRONMENT - ALCOHOL  (2 hit(s))
+(287, '', '1608-0.0', '4.51', 'Average weekly fortified wine intake (0.0)')
+(304, '', '2664_5.0', '2.79', 'Reason for reducing amount of alcohol drunk (0.0)')
+
+ COMP Asymmetry Pattern 66 PHYSICAL MEASURES - GENERAL  (4 hit(s))
+(385, '', '23119-0.0', '2.84', 'Arm fat percentage (right) (0.0)')
+(387, '', '23111-0.0', '3.08', 'Leg fat percentage (right) (0.0)')
+(389, '', '23109-0.0', '2.74', 'Impedance of arm (right) (0.0)')
+(395, '', '23112-0.0', '2.93', 'Leg fat mass (right) (0.0)')
+
+ COMP Asymmetry Pattern 66 PHYSICAL MEASURES - CARDIAC & BLOOD VESSELS  (3 hit(s))
+(418, '', '22676-2.0', '2.85', 'Minimum carotid IMT (intima-medial thickness) at 210 degrees  (2.0)')
+(445, '', '4080-0.0', '4.52', 'Systolic blood pressure, automated reading (0.0)')
+(450, '', '22681-2.0', '3.11', 'Maximum carotid IMT (intima-medial thickness) at 240 degrees  (2.0)')
+
+ COMP Asymmetry Pattern 66 BLOOD ASSAYS  (2 hit(s))
+(462, '', '30750-0.0', '3.24', 'Glycated haemoglobin (HbA1c) (0.0)')
+(510, '', '30600-0.0', '2.90', 'Albumin (0.0)')
+
+ COMP Asymmetry Pattern 66 COGNITIVE PHENOTYPES  (13 hit(s))
+(536, '', '20171_1.0', '3.11', 'FI4 : positional arithmetic (0.0)')
+(574, '', '6362_24.0', '2.83', 'First code array presented (2.0)')
+(590, '', '20023-0.0', '3.94', 'Mean time to correctly identify matches (0.0)')
+(593, '', '20149-0.1', '3.35', 'Interval between previous point and current one in numeric path (trail #1) (0.1)')
+(602, '', '23323-2.0', '5.00', 'Number of symbol digit matches attempted (2.0)')
+(603, '', '23324-2.0', '3.17', 'Number of symbol digit matches made correctly (2.0)')
+(637, '', '6348-2.0', '4.48', 'Duration to complete numeric path (trail #1) (2.0)')
+(638, '', '6350-2.0', '3.04', 'Duration to complete alphanumeric path (trail #2) (2.0)')
+(639, '', '6772-2.0', '3.43', 'Interval between previous point and current one in numeric path (trail #1) (2.0)')
+(640, '', '6773-2.0', '4.45', 'Interval between previous point and current one in alphanumeric path (trail #2) (2.0)')
+(678, '', '404-0.0', '4.09', 'Duration to first press of snap-button in each round (0.0)')
+(721, '', '6373-2.0', '2.82', 'Number of puzzles correctly solved (2.0)')
+(723, '', '6382-2.0', '3.36', 'n/a (2.0)')
+
+ COMP Asymmetry Pattern 66 MENTAL HEALTH SELF-REPORT  (1 hit(s))
+(804, '', '20499-0.0', '3.13', 'Ever sought or received professional help for mental distress (0.0)')

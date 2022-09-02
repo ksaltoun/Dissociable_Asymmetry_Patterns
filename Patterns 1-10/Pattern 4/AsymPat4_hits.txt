@@ -1,0 +1,100 @@
+
+Component Asymmetry Pattern 4
+
+Now printing all phenotype hits grouped by category
+Output is in a tuple the following form: 
+(x val in graph, choice, column name, -log10(p), descriptive column name)
+Please see README for more information
+
+MAX: 12.151
+N ABOVE BON (4.29):  37
+N ABOVE FDR (2.45):  70
+Fine Grain info above  FDR
+Printing out 70 hits
+
+ COMP Asymmetry Pattern 4 LIFESTYLE AND ENVIRONMENT - GENERAL  (7 hit(s))
+(71, '', '1835-0.0', '5.66', 'Mother still alive (0.0)')
+(73, '2', '6142-0.0', '5.49', 'Current employment status (0.0)')
+(100, '10', '20110-0.0', '2.99', 'Illnesses of mother (0.0)')
+(137, '', '24005-0.0', '2.85', 'Particulate matter air pollution (pm10); 2010 (0.0)')
+(194, '', '24503-0.0', '3.00', 'Greenspace percentage, buffer 300m (0.0)')
+(203, '', '2395_3.0', '5.33', 'Hair/balding pattern (0.0)')
+(213, '', '2395_1.0', '4.83', 'Hair/balding pattern (0.0)')
+
+ COMP Asymmetry Pattern 4 LIFESTYLE AND ENVIRONMENT - EXERCISE AND WORK  (1 hit(s))
+(233, '', '1190-0.0', '2.63', 'Nap during day (0.0)')
+
+ COMP Asymmetry Pattern 4 LIFESTYLE AND ENVIRONMENT - ALCOHOL  (1 hit(s))
+(288, '', '1588-0.0', '2.57', 'Average weekly beer plus cider intake (0.0)')
+
+ COMP Asymmetry Pattern 4 LIFESTYLE AND ENVIRONMENT - TOBACCO  (1 hit(s))
+(331, '2', '6158-0.0', '2.73', 'Why reduced smoking (0.0)')
+
+ COMP Asymmetry Pattern 4 PHYSICAL MEASURES - GENERAL  (28 hit(s))
+(365, '', '46-0.0', '6.90', 'Hand grip strength (left) (0.0)')
+(368, '', '1707_1.0', '3.17', 'Handedness (chirality/laterality) (0.0)')
+(371, '', '23127-0.0', '3.71', 'Trunk fat percentage (0.0)')
+(372, '', '23126-0.0', '6.64', 'Arm predicted mass (left) (0.0)')
+(373, '', '23125-0.0', '7.14', 'Arm fat-free mass (left) (0.0)')
+(374, '', '23123-0.0', '9.71', 'Arm fat percentage (left) (0.0)')
+(375, '', '47-0.0', '6.76', 'Hand grip strength (right) (0.0)')
+(377, '', '1707_2.0', '3.29', 'Handedness (chirality/laterality) (0.0)')
+(378, '', '48-0.0', '5.51', 'Waist circumference (0.0)')
+(380, '', '50-0.0', '8.00', 'Standing height (0.0)')
+(383, '', '23121-0.0', '6.56', 'Arm fat-free mass (right) (0.0)')
+(385, '', '23119-0.0', '8.27', 'Arm fat percentage (right) (0.0)')
+(386, '', '23113-0.0', '6.50', 'Leg fat-free mass (right) (0.0)')
+(387, '', '23111-0.0', '11.11', 'Leg fat percentage (right) (0.0)')
+(388, '', '23110-0.0', '7.83', 'Impedance of arm (left) (0.0)')
+(389, '', '23109-0.0', '6.56', 'Impedance of arm (right) (0.0)')
+(390, '', '23108-0.0', '2.72', 'Impedance of leg (left) (0.0)')
+(392, '', '23106-0.0', '7.40', 'Impedance of whole body (0.0)')
+(393, '', '23102-2.0', '6.78', 'Whole body water mass (2.0)')
+(394, '', '23101-0.0', '7.33', 'Whole body fat-free mass (0.0)')
+(395, '', '23112-0.0', '9.58', 'Leg fat mass (right) (0.0)')
+(396, '', '23099-0.0', '8.44', 'Body fat percentage (0.0)')
+(397, '', '23100-0.0', '2.57', 'Whole body fat mass (0.0)')
+(400, '', '3062-0.0', '2.81', 'Forced vital capacity (FVC) (0.0)')
+(403, '', '12144-2.0', '7.69', 'Height (2.0)')
+(404, '', '20015-0.0', '6.95', 'Sitting height (0.0)')
+(406, '', '21002-0.0', '3.80', 'Weight (0.0)')
+(407, '', '12143-2.0', '3.26', 'Weight (pre-imaging) (2.0)')
+
+ COMP Asymmetry Pattern 4 PHYSICAL MEASURES - CARDIAC & BLOOD VESSELS  (4 hit(s))
+(417, '', '22677-2.0', '2.86', 'Mean carotid IMT (intima-medial thickness) at 210 degrees  (2.0)')
+(418, '', '22676-2.0', '2.75', 'Minimum carotid IMT (intima-medial thickness) at 210 degrees  (2.0)')
+(449, '', '22680-2.0', '2.74', 'Mean carotid IMT (intima-medial thickness) at 240 degrees  (2.0)')
+(450, '', '22681-2.0', '2.78', 'Maximum carotid IMT (intima-medial thickness) at 240 degrees  (2.0)')
+
+ COMP Asymmetry Pattern 4 BLOOD ASSAYS  (17 hit(s))
+(462, '', '30750-0.0', '3.67', 'Glycated haemoglobin (HbA1c) (0.0)')
+(465, '', '30730-0.0', '3.23', 'Gamma glutamyltransferase (0.0)')
+(466, '', '30720-0.0', '6.60', 'Cystatin C (0.0)')
+(468, '', '30700-0.0', '11.54', 'Creatinine (0.0)')
+(471, '', '30850-0.0', '12.15', 'Testosterone (0.0)')
+(473, '', '30840-0.0', '4.09', 'Total bilirubin (0.0)')
+(477, '', '30880-0.0', '8.09', 'Urate (0.0)')
+(481, '', '30150-0.0', '3.36', 'Eosinophill count (0.0)')
+(489, '', '30130-0.0', '2.99', 'Monocyte count (0.0)')
+(498, '', '30260-0.0', '3.53', 'Mean reticulocyte volume (0.0)')
+(503, '', '30090-0.0', '3.45', 'Platelet crit (0.0)')
+(505, '', '30650-0.0', '4.55', 'Aspartate aminotransferase (0.0)')
+(508, '', '30620-0.0', '2.84', 'Alanine aminotransferase (0.0)')
+(511, '', '30080-0.0', '3.02', 'Platelet count (0.0)')
+(513, '', '30020-0.0', '7.03', 'Haemoglobin concentration (0.0)')
+(514, '', '30030-0.0', '6.28', 'Haematocrit percentage (0.0)')
+(518, '', '30010-0.0', '4.64', 'Red blood cell (erythrocyte) count (0.0)')
+
+ COMP Asymmetry Pattern 4 COGNITIVE PHENOTYPES  (6 hit(s))
+(597, '', '20159-0.0', '5.00', 'Number of symbol digit matches made correctly (0.0)')
+(602, '', '23323-2.0', '5.07', 'Number of symbol digit matches attempted (2.0)')
+(637, '', '6348-2.0', '5.43', 'Duration to complete numeric path (trail #1) (2.0)')
+(638, '', '6350-2.0', '3.79', 'Duration to complete alphanumeric path (trail #2) (2.0)')
+(639, '', '6772-2.0', '5.22', 'Interval between previous point and current one in numeric path (trail #1) (2.0)')
+(647, '', '4290-0.0', '2.94', 'Duration screen displayed (0.0)')
+
+ COMP Asymmetry Pattern 4 MENTAL HEALTH SELF-REPORT  (4 hit(s))
+(865, '', '20536_1.0', '2.82', 'Weight change during worst episode of depression (0.0)')
+(872, '', '20490-0.0', '2.48', 'Sexually molested as a child (0.0)')
+(942, '12', '20544-0.1', '2.85', 'Mental health problems ever diagnosed by a professional (0.1)')
+(958, '', '2060-0.0', '2.65', 'Frequency of unenthusiasm / disinterest in last 2 weeks (0.0)')

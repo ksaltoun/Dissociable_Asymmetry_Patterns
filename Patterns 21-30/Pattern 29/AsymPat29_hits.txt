@@ -1,0 +1,31 @@
+
+Component Asymmetry Pattern 29
+
+Now printing all phenotype hits grouped by category
+Output is in a tuple the following form: 
+(x val in graph, choice, column name, -log10(p), descriptive column name)
+Please see README for more information
+
+MAX: 4.537
+N ABOVE BON (4.29):  1
+N ABOVE FDR (3.21):  12
+Fine Grain info above  FDR
+Printing out 12 hits
+
+ COMP Asymmetry Pattern 29 PHYSICAL MEASURES - GENERAL  (9 hit(s))
+(372, '', '23126-0.0', '3.49', 'Arm predicted mass (left) (0.0)')
+(373, '', '23125-0.0', '3.70', 'Arm fat-free mass (left) (0.0)')
+(380, '', '50-0.0', '4.54', 'Standing height (0.0)')
+(383, '', '23121-0.0', '3.91', 'Arm fat-free mass (right) (0.0)')
+(385, '', '23119-0.0', '3.47', 'Arm fat percentage (right) (0.0)')
+(386, '', '23113-0.0', '3.27', 'Leg fat-free mass (right) (0.0)')
+(387, '', '23111-0.0', '4.24', 'Leg fat percentage (right) (0.0)')
+(394, '', '23101-0.0', '3.29', 'Whole body fat-free mass (0.0)')
+(403, '', '12144-2.0', '4.03', 'Height (2.0)')
+
+ COMP Asymmetry Pattern 29 BLOOD ASSAYS  (2 hit(s))
+(505, '', '30650-0.0', '3.37', 'Aspartate aminotransferase (0.0)')
+(508, '', '30620-0.0', '4.07', 'Alanine aminotransferase (0.0)')
+
+ COMP Asymmetry Pattern 29 COGNITIVE PHENOTYPES  (1 hit(s))
+(623, '', '20179_3.0', '3.80', 'FI8 : chained arithmetic (0.0)')

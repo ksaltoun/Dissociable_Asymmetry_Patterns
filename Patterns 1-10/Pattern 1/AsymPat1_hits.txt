@@ -1,0 +1,77 @@
+
+Component Asymmetry Pattern 1
+
+Now printing all phenotype hits grouped by category
+Output is in a tuple the following form: 
+(x val in graph, choice, column name, -log10(p), descriptive column name)
+Please see README for more information
+
+MAX: 14.745
+N ABOVE BON (4.29):  37
+N ABOVE FDR (2.57):  52
+Fine Grain info above  FDR
+Printing out 52 hits
+
+ COMP Asymmetry Pattern 1 LIFESTYLE AND ENVIRONMENT - GENERAL  (10 hit(s))
+(72, '', '1797-0.0', '2.63', 'Father still alive (0.0)')
+(103, '', '767-0.0', '3.51', 'Length of working week for main job (0.0)')
+(153, '101', '20111-0.0', '3.40', 'Illnesses of siblings (0.0)')
+(157, '', '777-0.0', '2.95', 'Frequency of travelling from home to job workplace (0.0)')
+(166, '100', '20111-0.0', '4.45', 'Illnesses of siblings (0.0)')
+(171, '', '1883-0.0', '4.32', 'Number of full sisters (0.0)')
+(181, '', '1873-0.0', '5.01', 'Number of full brothers (0.0)')
+(202, '', '2395_4.0', '4.26', 'Hair/balding pattern (0.0)')
+(204, '', '2395_2.0', '4.21', 'Hair/balding pattern (0.0)')
+(213, '', '2395_1.0', '4.23', 'Hair/balding pattern (0.0)')
+
+ COMP Asymmetry Pattern 1 LIFESTYLE AND ENVIRONMENT - ALCOHOL  (1 hit(s))
+(288, '', '1588-0.0', '4.88', 'Average weekly beer plus cider intake (0.0)')
+
+ COMP Asymmetry Pattern 1 LIFESTYLE AND ENVIRONMENT - TOBACCO  (1 hit(s))
+(335, '', '3446_3.0', '3.27', 'Type of tobacco currently smoked (0.0)')
+
+ COMP Asymmetry Pattern 1 PHYSICAL MEASURES - GENERAL  (28 hit(s))
+(365, '', '46-0.0', '6.62', 'Hand grip strength (left) (0.0)')
+(368, '', '1707_1.0', '5.70', 'Handedness (chirality/laterality) (0.0)')
+(371, '', '23127-0.0', '6.41', 'Trunk fat percentage (0.0)')
+(372, '', '23126-0.0', '8.58', 'Arm predicted mass (left) (0.0)')
+(373, '', '23125-0.0', '8.60', 'Arm fat-free mass (left) (0.0)')
+(374, '', '23123-0.0', '13.27', 'Arm fat percentage (left) (0.0)')
+(375, '', '47-0.0', '4.65', 'Hand grip strength (right) (0.0)')
+(377, '', '1707_2.0', '4.40', 'Handedness (chirality/laterality) (0.0)')
+(378, '', '48-0.0', '3.83', 'Waist circumference (0.0)')
+(380, '', '50-0.0', '4.64', 'Standing height (0.0)')
+(383, '', '23121-0.0', '8.47', 'Arm fat-free mass (right) (0.0)')
+(384, '', '23120-0.0', '3.72', 'Arm fat mass (right) (0.0)')
+(385, '', '23119-0.0', '11.66', 'Arm fat percentage (right) (0.0)')
+(386, '', '23113-0.0', '7.46', 'Leg fat-free mass (right) (0.0)')
+(387, '', '23111-0.0', '13.88', 'Leg fat percentage (right) (0.0)')
+(388, '', '23110-0.0', '10.74', 'Impedance of arm (left) (0.0)')
+(389, '', '23109-0.0', '9.55', 'Impedance of arm (right) (0.0)')
+(392, '', '23106-0.0', '7.89', 'Impedance of whole body (0.0)')
+(393, '', '23102-2.0', '5.98', 'Whole body water mass (2.0)')
+(394, '', '23101-0.0', '7.20', 'Whole body fat-free mass (0.0)')
+(395, '', '23112-0.0', '13.21', 'Leg fat mass (right) (0.0)')
+(396, '', '23099-0.0', '11.46', 'Body fat percentage (0.0)')
+(397, '', '23100-0.0', '5.09', 'Whole body fat mass (0.0)')
+(400, '', '3062-0.0', '6.07', 'Forced vital capacity (FVC) (0.0)')
+(403, '', '12144-2.0', '4.53', 'Height (2.0)')
+(404, '', '20015-0.0', '7.08', 'Sitting height (0.0)')
+(407, '', '12143-2.0', '2.93', 'Weight (pre-imaging) (2.0)')
+(408, '', '3063-0.0', '3.18', 'Forced expiratory volume in 1-second (FEV1) (0.0)')
+
+ COMP Asymmetry Pattern 1 PHYSICAL MEASURES - CARDIAC & BLOOD VESSELS  (1 hit(s))
+(415, '', '12340-2.0', '5.49', 'QRS duration (2.0)')
+
+ COMP Asymmetry Pattern 1 BLOOD ASSAYS  (11 hit(s))
+(461, '', '30760-0.0', '5.28', 'HDL cholesterol (0.0)')
+(468, '', '30700-0.0', '9.57', 'Creatinine (0.0)')
+(471, '', '30850-0.0', '8.00', 'Testosterone (0.0)')
+(472, '', '30830-0.0', '5.79', 'SHBG (0.0)')
+(473, '', '30840-0.0', '4.79', 'Total bilirubin (0.0)')
+(477, '', '30880-0.0', '14.74', 'Urate (0.0)')
+(507, '', '30630-0.0', '3.83', 'Apolipoprotein A (0.0)')
+(508, '', '30620-0.0', '2.90', 'Alanine aminotransferase (0.0)')
+(513, '', '30020-0.0', '6.16', 'Haemoglobin concentration (0.0)')
+(514, '', '30030-0.0', '6.09', 'Haematocrit percentage (0.0)')
+(518, '', '30010-0.0', '4.11', 'Red blood cell (erythrocyte) count (0.0)')

@@ -1,0 +1,54 @@
+
+Component Asymmetry Pattern 9
+
+Now printing all phenotype hits grouped by category
+Output is in a tuple the following form: 
+(x val in graph, choice, column name, -log10(p), descriptive column name)
+Please see README for more information
+
+MAX: 11.963
+N ABOVE BON (4.29):  10
+N ABOVE FDR (2.86):  27
+Fine Grain info above  FDR
+Printing out 27 hits
+
+ COMP Asymmetry Pattern 9 LIFESTYLE AND ENVIRONMENT - GENERAL  (11 hit(s))
+(64, '1', '6142-0.0', '8.73', 'Current employment status (0.0)')
+(71, '', '1835-0.0', '8.37', 'Mother still alive (0.0)')
+(72, '', '1797-0.0', '6.27', 'Father still alive (0.0)')
+(73, '2', '6142-0.0', '11.96', 'Current employment status (0.0)')
+(92, '2', '6141-0.0', '3.95', 'How are people in household related to participant (0.0)')
+(101, '', '1845-0.0', '3.83', "Mother's age (0.0)")
+(104, '', '699-0.0', '3.06', 'Length of time at current address (0.0)')
+(150, '', '709-0.0', '4.79', 'Number in household (0.0)')
+(203, '', '2395_3.0', '3.04', 'Hair/balding pattern (0.0)')
+(210, '', '680_2.0', '4.62', 'Own or rent accommodation lived in (0.0)')
+(211, '', '680_1.0', '4.34', 'Own or rent accommodation lived in (0.0)')
+
+ COMP Asymmetry Pattern 9 LIFESTYLE AND ENVIRONMENT - EXERCISE AND WORK  (2 hit(s))
+(226, '', '1120-0.0', '3.40', 'Weekly usage of mobile phone in last 3 months (0.0)')
+(242, '', '796-0.0', '3.16', 'Distance between home and job workplace (0.0)')
+
+ COMP Asymmetry Pattern 9 LIFESTYLE AND ENVIRONMENT - TOBACCO  (4 hit(s))
+(336, '', '20116_0.0', '2.88', 'Smoking status (0.0)')
+(337, '', '20116_1.0', '3.47', 'Smoking status (0.0)')
+(351, '', '2877_1.0', '3.13', 'Type of tobacco previously smoked (0.0)')
+(354, '', '1249-0.0', '3.91', 'Past tobacco smoking (0.0)')
+
+ COMP Asymmetry Pattern 9 PHYSICAL MEASURES - CARDIAC & BLOOD VESSELS  (7 hit(s))
+(416, '', '22671-2.0', '3.34', 'Mean carotid IMT (intima-medial thickness) at 120 degrees  (2.0)')
+(420, '', '22670-2.0', '3.25', 'Minimum carotid IMT (intima-medial thickness) at 120 degrees  (2.0)')
+(421, '', '22672-2.0', '4.08', 'Maximum carotid IMT (intima-medial thickness) at 120 degrees  (2.0)')
+(422, '', '22675-2.0', '3.96', 'Maximum carotid IMT (intima-medial thickness) at 150 degrees  (2.0)')
+(423, '', '22674-2.0', '5.82', 'Mean carotid IMT (intima-medial thickness) at 150 degrees  (2.0)')
+(425, '', '22673-2.0', '5.72', 'Minimum carotid IMT (intima-medial thickness) at 150 degrees  (2.0)')
+(445, '', '4080-0.0', '6.11', 'Systolic blood pressure, automated reading (0.0)')
+
+ COMP Asymmetry Pattern 9 BLOOD ASSAYS  (1 hit(s))
+(511, '', '30080-0.0', '3.52', 'Platelet count (0.0)')
+
+ COMP Asymmetry Pattern 9 COGNITIVE PHENOTYPES  (1 hit(s))
+(637, '', '6348-2.0', '3.39', 'Duration to complete numeric path (trail #1) (2.0)')
+
+ COMP Asymmetry Pattern 9 MENTAL HEALTH SELF-REPORT  (1 hit(s))
+(875, '', '20487-0.0', '3.74', 'Felt hated by family member as a child (0.0)')

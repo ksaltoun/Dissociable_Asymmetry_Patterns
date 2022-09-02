@@ -1,0 +1,59 @@
+
+Component Asymmetry Pattern 13
+
+Now printing all phenotype hits grouped by category
+Output is in a tuple the following form: 
+(x val in graph, choice, column name, -log10(p), descriptive column name)
+Please see README for more information
+
+MAX: 17.603
+N ABOVE BON (4.29):  14
+N ABOVE FDR (2.81):  30
+Fine Grain info above  FDR
+Printing out 30 hits
+
+ COMP Asymmetry Pattern 13 LIFESTYLE AND ENVIRONMENT - GENERAL  (13 hit(s))
+(44, '8', '20107-0.0', '3.05', 'Illnesses of father (0.0)')
+(64, '1', '6142-0.0', '11.53', 'Current employment status (0.0)')
+(71, '', '1835-0.0', '11.39', 'Mother still alive (0.0)')
+(72, '', '1797-0.0', '12.07', 'Father still alive (0.0)')
+(73, '2', '6142-0.0', '17.60', 'Current employment status (0.0)')
+(92, '2', '6141-0.0', '4.20', 'How are people in household related to participant (0.0)')
+(100, '10', '20110-0.0', '4.57', 'Illnesses of mother (0.0)')
+(101, '', '1845-0.0', '4.79', "Mother's age (0.0)")
+(104, '', '699-0.0', '7.14', 'Length of time at current address (0.0)')
+(119, '', '26414-0.0', '2.96', 'Education score (England) (0.0)')
+(150, '', '709-0.0', '4.38', 'Number in household (0.0)')
+(210, '', '680_2.0', '8.15', 'Own or rent accommodation lived in (0.0)')
+(211, '', '680_1.0', '11.44', 'Own or rent accommodation lived in (0.0)')
+
+ COMP Asymmetry Pattern 13 LIFESTYLE AND ENVIRONMENT - EXERCISE AND WORK  (1 hit(s))
+(226, '', '1120-0.0', '3.70', 'Weekly usage of mobile phone in last 3 months (0.0)')
+
+ COMP Asymmetry Pattern 13 LIFESTYLE AND ENVIRONMENT - ALCOHOL  (1 hit(s))
+(276, '', '1558-0.0', '2.88', 'Alcohol intake frequency. (0.0)')
+
+ COMP Asymmetry Pattern 13 PHYSICAL MEASURES - GENERAL  (1 hit(s))
+(378, '', '48-0.0', '3.00', 'Waist circumference (0.0)')
+
+ COMP Asymmetry Pattern 13 PHYSICAL MEASURES - CARDIAC & BLOOD VESSELS  (2 hit(s))
+(416, '', '22671-2.0', '2.86', 'Mean carotid IMT (intima-medial thickness) at 120 degrees  (2.0)')
+(421, '', '22672-2.0', '3.78', 'Maximum carotid IMT (intima-medial thickness) at 120 degrees  (2.0)')
+
+ COMP Asymmetry Pattern 13 BLOOD ASSAYS  (7 hit(s))
+(460, '', '30770-0.0', '6.61', 'IGF-1 (0.0)')
+(466, '', '30720-0.0', '5.40', 'Cystatin C (0.0)')
+(475, '', '30860-0.0', '2.95', 'Total protein (0.0)')
+(477, '', '30880-0.0', '5.83', 'Urate (0.0)')
+(487, '', '30110-0.0', '2.90', 'Platelet distribution width (0.0)')
+(502, '', '30670-0.0', '3.10', 'Urea (0.0)')
+(505, '', '30650-0.0', '3.03', 'Aspartate aminotransferase (0.0)')
+
+ COMP Asymmetry Pattern 13 COGNITIVE PHENOTYPES  (4 hit(s))
+(590, '', '20023-0.0', '3.19', 'Mean time to correctly identify matches (0.0)')
+(602, '', '23323-2.0', '5.99', 'Number of symbol digit matches attempted (2.0)')
+(603, '', '23324-2.0', '3.51', 'Number of symbol digit matches made correctly (2.0)')
+(724, '', '6383-2.0', '3.82', 'Number of puzzles attempted (2.0)')
+
+ COMP Asymmetry Pattern 13 MENTAL HEALTH SELF-REPORT  (1 hit(s))
+(872, '', '20490-0.0', '2.86', 'Sexually molested as a child (0.0)')

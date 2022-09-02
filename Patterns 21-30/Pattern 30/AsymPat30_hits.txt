@@ -1,0 +1,42 @@
+
+Component Asymmetry Pattern 30
+
+Now printing all phenotype hits grouped by category
+Output is in a tuple the following form: 
+(x val in graph, choice, column name, -log10(p), descriptive column name)
+Please see README for more information
+
+MAX: 7.124
+N ABOVE BON (4.29):  6
+N ABOVE FDR (3.06):  17
+Fine Grain info above  FDR
+Printing out 17 hits
+
+ COMP Asymmetry Pattern 30 EARLY LIFE FACTORS  (1 hit(s))
+(2, '', '1787-0.0', '3.93', 'Maternal smoking around birth (0.0)')
+
+ COMP Asymmetry Pattern 30 LIFESTYLE AND ENVIRONMENT - GENERAL  (9 hit(s))
+(64, '1', '6142-0.0', '7.12', 'Current employment status (0.0)')
+(73, '2', '6142-0.0', '6.60', 'Current employment status (0.0)')
+(92, '2', '6141-0.0', '3.82', 'How are people in household related to participant (0.0)')
+(100, '10', '20110-0.0', '3.48', 'Illnesses of mother (0.0)')
+(104, '', '699-0.0', '3.10', 'Length of time at current address (0.0)')
+(110, '', '24504-0.0', '4.22', 'Domestic garden percentage, buffer 300m (0.0)')
+(120, '', '2139-0.0', '3.31', 'Age first had sexual intercourse (0.0)')
+(210, '', '680_2.0', '4.74', 'Own or rent accommodation lived in (0.0)')
+(211, '', '680_1.0', '4.88', 'Own or rent accommodation lived in (0.0)')
+
+ COMP Asymmetry Pattern 30 LIFESTYLE AND ENVIRONMENT - EXERCISE AND WORK  (1 hit(s))
+(250, '', '1210-0.0', '3.11', 'Snoring (0.0)')
+
+ COMP Asymmetry Pattern 30 LIFESTYLE AND ENVIRONMENT - TOBACCO  (2 hit(s))
+(322, '', '20160-0.0', '4.09', 'Ever smoked (0.0)')
+(354, '', '1249-0.0', '3.28', 'Past tobacco smoking (0.0)')
+
+ COMP Asymmetry Pattern 30 PHYSICAL MEASURES - CARDIAC & BLOOD VESSELS  (1 hit(s))
+(445, '', '4080-0.0', '4.41', 'Systolic blood pressure, automated reading (0.0)')
+
+ COMP Asymmetry Pattern 30 BLOOD ASSAYS  (3 hit(s))
+(498, '', '30260-0.0', '4.18', 'Mean reticulocyte volume (0.0)')
+(505, '', '30650-0.0', '4.69', 'Aspartate aminotransferase (0.0)')
+(509, '', '30610-0.0', '3.58', 'Alkaline phosphatase (0.0)')
