@@ -1,9 +1,12 @@
 # Dissociable Asymmetry Patterns
 
-This repository contains all asymmetry patterns associated with 
+This repository contains all asymmetry patterns associated with our paper [Dissociable brain structural asymmetry patterns reveal unique phenome-wide profiles.](https://doi.org/10.1038/s41562-022-01461-0)
 
 Please cite the paper:
-CITATION HERE
+Saltoun, K., Adolphs, R., Paul, L.K., Sharma V., Diedrichsen J., Yeo B.T.T, Bzdok D. Dissociable brain structural asymmetry patterns reveal unique phenome-wide profiles. *Nat Hum Behav* (2022). [https://doi.org/10.1038/s41562-022-01461-0](https://doi.org/10.1038/s41562-022-01461-0)
+
+## Contents
+Asymmetry patterns are located within the appropriately named folder.
 
 Each asymmetry pattern folder contains the following:
 - Feature contributions which comprise the asymmetry pattern 
